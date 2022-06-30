@@ -1,0 +1,2 @@
+# shanka
+allowed git
